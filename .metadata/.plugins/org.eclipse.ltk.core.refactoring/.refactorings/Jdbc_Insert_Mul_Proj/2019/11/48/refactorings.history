@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Jdbc_Insert_Mul_Proj/src/org/btm/jdbcApp/InsertDemo.java&apos; to &apos;MulInsertDemo.java&apos;" description="Rename resource &apos;InsertDemo.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/org/btm/jdbcApp/InsertDemo.java" name="MulInsertDemo.java" stamp="1574819278527" updateReferences="true"/>
+</session>

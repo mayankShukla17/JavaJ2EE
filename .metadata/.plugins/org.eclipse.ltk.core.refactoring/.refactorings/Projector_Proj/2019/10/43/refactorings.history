@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;org.btm.projectorApp.SharpProjImpl&apos; to &apos;SharpProjectorImpl&apos;&#x0A;- Original project: &apos;Projector_Proj&apos;&#x0A;- Original element: &apos;org.btm.projectorApp.SharpProjImpl&apos;&#x0A;- Renamed element: &apos;org.btm.projectorApp.SharpProjectorImpl&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SharpProjImpl&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;org.btm.projectorApp{SharpProjImpl.java[SharpProjImpl" matchStrategy="1" name="SharpProjectorImpl" qualified="false" references="true" similarDeclarations="false" stamp="1572027930818" textual="false" version="1.0"/>
+</session>

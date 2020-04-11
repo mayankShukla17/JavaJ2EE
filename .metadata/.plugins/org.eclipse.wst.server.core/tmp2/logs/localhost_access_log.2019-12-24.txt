@@ -1,0 +1,4 @@
+127.0.0.1 - - [24/Dec/2019:23:57:43 +0530] "GET / HTTP/1.1" 404 709
+127.0.0.1 - - [24/Dec/2019:23:57:44 +0530] "GET /Lifecycle_Proj/ HTTP/1.1" 304 -
+127.0.0.1 - - [24/Dec/2019:23:57:53 +0530] "GET /Lifecycle_Proj/fs?nm=mks&pl=blr HTTP/1.1" 200 91
+127.0.0.1 - - [24/Dec/2019:23:58:07 +0530] "GET /Lifecycle_Proj/fs?nm=nidhi&pl=blr HTTP/1.1" 200 93

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;i&apos; in &apos;org.btm.batchApp.BatchPstmt.main(...)&apos; to &apos;j&apos;&#x0A;- Original project: &apos;Batch_Proj&apos;&#x0A;- Original element: &apos;org.btm.batchApp.BatchPstmt.main(String[]).i&apos;&#x0A;- Renamed element: &apos;i&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;i&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;org.btm.batchApp{BatchPstmt.java[BatchPstmt~main~\[QString;@i!974!985!978!978!I!0!false" name="j" references="true" stamp="1576941745376" version="1.0"/>
+</session>

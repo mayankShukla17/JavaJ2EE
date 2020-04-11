@@ -1,0 +1,10 @@
+127.0.0.1 - - [28/Dec/2019:10:02:35 +0530] "GET / HTTP/1.1" 404 709
+127.0.0.1 - - [28/Dec/2019:10:02:36 +0530] "GET /Lifecycle_Xml_Config_Proj/ HTTP/1.1" 304 -
+127.0.0.1 - - [28/Dec/2019:10:02:42 +0530] "GET /Lifecycle_Xml_Config_Proj/fs?nm=mks&pl=jpn HTTP/1.1" 200 91
+127.0.0.1 - - [28/Dec/2019:10:06:22 +0530] "GET / HTTP/1.1" 404 709
+127.0.0.1 - - [28/Dec/2019:10:06:22 +0530] "GET /Lifecycle_Xml_Config_Proj/ HTTP/1.1" 304 -
+127.0.0.1 - - [28/Dec/2019:10:08:55 +0530] "GET / HTTP/1.1" 404 709
+127.0.0.1 - - [28/Dec/2019:10:08:57 +0530] "GET /Lifecycle_Xml_Config_Proj/WEB-INF/web.xml HTTP/1.1" 404 682
+127.0.0.1 - - [28/Dec/2019:10:09:28 +0530] "GET / HTTP/1.1" 404 709
+127.0.0.1 - - [28/Dec/2019:10:09:29 +0530] "GET /Lifecycle_Xml_Config_Proj/WEB-INF/web.xml HTTP/1.1" 404 682
+127.0.0.1 - - [28/Dec/2019:10:09:39 +0530] "GET /Lifecycle_Xml_Config_Proj/ HTTP/1.1" 304 -

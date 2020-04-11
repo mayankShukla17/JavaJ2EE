@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Jdbc_Delete_Proj/src/org/btm/JdbcApp&apos; to &apos;jdbcApp&apos;" description="Rename resource &apos;JdbcApp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/org/btm/JdbcApp" name="jdbcApp" stamp="1574177660243" updateReferences="true"/>
+</session>

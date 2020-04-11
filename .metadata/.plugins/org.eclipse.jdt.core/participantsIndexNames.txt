@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+/home/mayank/eclipse-workspace-j2ee/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/797673945.index
+/Jsp_IncludeStandardAction_Proj/src
+/home/mayank/eclipse-workspace-j2ee/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1718653646.index
+/DateTime_Jsp_Proj/src
+/home/mayank/eclipse-workspace-j2ee/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1980570429.index
+/Jsp_IncludeDirective_Proj/src

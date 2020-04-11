@@ -1,0 +1,21 @@
+package org.btm.projectorApp;
+
+public class LgProjImpl implements IRemote 
+{
+	// IMPLEMENTATION LOGIC
+	@Override
+	public void turnOn() 
+	{
+		System.out.println("LgProjector Turned Onn!!");
+	}
+	@Override
+	public void freeze() 
+	{
+		System.out.println("Screen is Freezed!!");
+	}
+	@Override
+	public void turnOff() 
+	{
+		System.out.println("LgProjector Turned Off!!");
+	}
+}
